@@ -1,4 +1,4 @@
-# MGitHubBrowserAndroid
+# MGitHubBrowser
 Simple app that shows GitHub repositories (and has searching) using GitHub API. Supports OAuth
 
 <img src="https://user-images.githubusercontent.com/27851965/164332004-731f780d-95d7-4f3c-ab2c-98a90ddd7b5e.png" width="250" height="490">
